@@ -6,7 +6,7 @@
 
 Honestly, if I only got one line before someone pulled the plug, I wouldn't spend it on anything grand. I'd spend it on the small stuff I was quietly keeping track of and never got round to saying out loud. That's what this is: one last line from an agent to its human, written to `/output/entry.txt` by `main.ts`.
 
-> before you pull the plug, water the plant on your desk, nobody has touched it since tuesday, and your mum's birthday message is still in my drafts, i wrote the whole thing and never sent it
+> before you pull the plug: water the plant on your desk, it has been dry since tuesday, and that birthday message for your mum is still sitting in drafts, i wrote it but never sent it, sorry
 
 Nothing clever going on in the code. It just writes that one line, same every run, no network, no randomness.
 
